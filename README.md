@@ -1,6 +1,6 @@
 # Olá! Eu sou o Nicolas 🫡
 
-- Estou a aprender React e Node junto a Typescript 
+- Estou a aprender React e Node.js junto a Typescript 
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasgghg&show_icons=true&theme=vision-friendly-dark)](https://github.com/nicolasgghg)
