@@ -1,4 +1,4 @@
-# Olá! Eu sou o Nicolas 🫡
+# Olá! Eu sou o Nicolas 
 
 - Estou a cursar DSM (Desenvolvimento de Software Multiplataformas), estou entre o 1° e 2° Semestre
 - Estou a aprender React e Node.js junto a Typescript 
