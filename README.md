@@ -6,13 +6,14 @@
 
 
 <p align="center">
-  <a href="https://github.com/nicolasgghg">
+  <a href="https://github.com/nicolasgghg" style="text-decoration: none;">
     <img src="https://github-readme-stats.vercel.app/api?username=nicolasgghg&show_icons=true&theme=vision-friendly-dark" alt="Anurag's GitHub stats" width="300">
   </a>
-  <a href="https://github.com/nicolasgghg">
+  <a href="https://github.com/nicolasgghg" style="text-decoration: none;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasgghg&layout=compact&theme=vision-friendly-dark&show_icons=true" alt="Top Languages" width="300">
   </a>
 </p>
+
 
 
 <div style="display: inline_block;" align="center"><br>
