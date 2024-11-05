@@ -5,8 +5,15 @@
 <br>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasgghg&show_icons=true&theme=vision-friendly-dark)](https://github.com/nicolasgghg)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasgghg&layout=compact&theme=vision-friendly-dark&show_icons=true)](https://github.com/nicolasgghg)
+<p align="center">
+  <a href="https://github.com/nicolasgghg">
+    <img src="https://github-readme-stats.vercel.app/api?username=nicolasgghg&show_icons=true&theme=vision-friendly-dark" alt="Anurag's GitHub stats" width="300">
+  </a>
+  <a href="https://github.com/nicolasgghg">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasgghg&layout=compact&theme=vision-friendly-dark&show_icons=true" alt="Top Languages" width="300">
+  </a>
+</p>
+
 
 <div style="display: inline_block;" align="center"><br>
   <img align="center" alt="Nicolas-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
