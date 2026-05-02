@@ -1,90 +1,89 @@
-# <h1 align="center">Olá! Eu sou o Nicolas </h1>
-
-<li align="center">Estou cursando DSM (Desenvolvimento de Software Multiplataformas) e estou no 3º Semestre.</li>
-<li align="center">Atualmente, estou me qualificando para seguir como Back-End Developer com a Linguagem Java.</li>
-
-<br>
-
----
-
-#### 🚀 **Projetos**
-  
-- **Projeto Pi (Faculdade)**  
-  Contribuí para o desenvolvimento da aplicação *Pi*, com foco na implementação do **back-end** utilizando **Java**. Trabalhei na construção de APIs, integração com banco de dados e otimização de performance. [Link para o repositório](https://github.com/Memlith/fatec-glab).
-
----
-
-#### 🎓 **Educação e Cursos**
-  
-- **Cursando Desenvolvimento de Software Multiplataformas (DSM)**  
-  *Instituição*: FATEC Indaiatuba — **3º Semestre** (2027)
-  
-- **Java Back-End**  
-  *Plataforma*: [Alura](https://www.alura.com.br) — **Em andamento**  
-  Estou me qualificando para atuar como desenvolvedor back-end com foco em Java, aprendendo sobre criação de APIs, autenticação, integração com bancos de dados e boas práticas de programação.
-
----
-
-#### 🔧 **Habilidades e Soft Skills**
-- **Linguagens e Frameworks**: 
-  - **Java**, **Java Spring**, **Java Spring Boot**, **JSecurity**, **JPA**, **Hibernate**
-  
-- **Banco de Dados**: 
-  - **MySQL**, **PostgreSQL**, **NoSQL**, **MongoDB**
-
-- **Migrations**:
-  - Experiência com **Migrations** para gerenciar alterações no banco de dados.
-
-- **Testes**:
-  - Aprendi a implementar **testes unitários** utilizando **JUnit** e **Mockito**.
-
-- **Conceitos e Ferramentas**: 
-  - **DTO (Data Transfer Object)**, **OAuth**, **JavaDoc**, **Swagger**, **Docker**, **POO (Programação Orientada a Objetos)**, **Design Patterns**
-  
-- **Outras Habilidades**:
-  - Sou um aprendiz ativo de **Inglês** (nível iniciante), estou em treinamento contínuo com **Duolingo**. Já tive curso de inglês na **CompWay**, mas foi no nível iniciante.
-
----
+# <h1 align="center">Olá! Eu sou o Nicolas 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/nicolasgghg" style="text-decoration: none;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasgghg&layout=compact&theme=vision-friendly-dark&show_icons=true" alt="Top Languages" width="300">
-  </a>
+  <strong>Desenvolvedor em formação pela FATEC Indaiatuba (5º Semestre)</strong><br>
+  Focado no ecossistema <strong>Java / Spring Boot</strong> e apaixonado por construir soluções escaláveis.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nicolas-bernardino" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:contato.nicolasbernardino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
 
-#### 💻 **Tecnologias que estou aprendendo**
+### 🚀 Sobre Mim
 
-<div style="display: inline_block;" align="center"><br>
-  <!-- Java e Frameworks -->
-  <img align="center" alt="Nicolas-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Nicolas-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  
-  <!-- Bancos de Dados -->
-  <img align="center" alt="Nicolas-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Nicolas-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-  
-  <!-- Ferramentas de Container e Testes -->
-  <img align="center" alt="Nicolas-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" alt="Nicolas-JUnit" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain.svg">
-  
-  <!-- Tecnologias Front-End -->
-  <img align="center" alt="Nicolas-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-  <img align="center" alt="Nicolas-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-  <img align="center" alt="Nicolas-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Nicolas-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Nicolas-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Nicolas-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="Nicolas-Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-</div>
-
+- 🎓 Cursando **Desenvolvimento de Software Multiplataforma** na FATEC (Conclusão 2027).
+- 💻 Atualmente me aprofundando em **Back-end com Java**, Spring Framework e arquitetura de APIs.
+- 🛠️ Possuo 1 ano de experiência prática em suporte de TI e automação de processos (Scripts em Node.js e PHP).
+- 🌱 Estudando ativamente **TDD (JUnit/Mockito)** e boas práticas de **Clean Code**.
 
 ---
 
-#### 📫 **Me encontre aqui**
+### 🔧 Hard Skills
 
-<div align="center">
-  <a href="mailto:nicolasgghg12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/nicolas-bernardino" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | Java, JavaScript (Node.js/TypeScript), PHP, SQL |
+| **Back-end** | Spring Boot, Spring Security, JPA/Hibernate, Express |
+| **Front-end** | React, Next.js, Tailwind CSS, HTML5, CSS3 |
+| **Bancos de Dados** | MySQL, PostgreSQL, MongoDB |
+| **DevOps & Ferramentas** | Docker, Git/GitHub, Migrations (Flyway), Swagger |
+
+---
+
+### 📂 Projetos em Destaque
+
+#### [Projeto Pi (G-Lab) - FATEC](https://github.com/Memlith/fatec-glab)
+Atuação como desenvolvedor **Back-end Java**. Responsável pela implementação de APIs REST, persistência de dados e otimização de consultas para a plataforma da faculdade.
+- **Stacks:** Java, Spring Boot, SQL.
+
+---
+
+### 💻 Tecnologias e Ferramentas
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://docs.oracle.com/en/java/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://spring.io/projects/spring-boot" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45" alt="Spring" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://nodejs.org/en/docs/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="NodeJS" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://react.dev/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://docs.docker.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://dev.mysql.com/doc/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.postgresql.org/docs/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://tailwindcss.com/docs" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind" />
+      </a>
+    </td>
+  </tr>
+</table>
