@@ -10,14 +10,19 @@
   <a href="mailto:contato.nicolasbernardino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
+<p align="center">
+  <a href="https://portfolio-ivory-two-71.vercel.app">
+    🚀 Acesse meu Portfólio
+  </a>
+</p>
 ---
 
 ### 🚀 Sobre Mim
 
 - 🎓 Cursando **Desenvolvimento de Software Multiplataforma** na FATEC (Conclusão 2027).
-- 💻 Atualmente me aprofundando em **Back-end com Java**, Spring Framework e arquitetura de APIs.
-- 🛠️ Possuo 1 ano de experiência prática em suporte de TI e automação de processos (Scripts em Node.js e PHP).
-- 🌱 Estudando ativamente **TDD (JUnit/Mockito)** e boas práticas de **Clean Code**.
+- 💻 Focado no desenvolvimento Back-end com Java e Spring Boot.
+- 🌱 Estudando TDD (JUnit/Mockito), Maven, Gradle e boas práticas de Clean Code.
+- 🚀 Desenvolvendo projetos pessoais e acadêmicos para consolidar conhecimentos em APIs REST e arquitetura de software.
 
 ---
 
