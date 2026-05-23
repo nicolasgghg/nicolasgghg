@@ -32,7 +32,7 @@
 | :--- | :--- |
 | **Linguagens** | Java, JavaScript (Node.js/TypeScript), PHP, SQL |
 | **Back-end** | Spring Boot, Spring Security, JPA/Hibernate, Express |
-| **Front-end** | React, Next.js, Tailwind CSS, HTML5, CSS3 |
+| **Front-end** | Angular, React, Next.js, Tailwind CSS, HTML5, CSS3 |
 | **Bancos de Dados** | MySQL, PostgreSQL, MongoDB |
 | **DevOps & Ferramentas** | Docker, Git/GitHub, Migrations (Flyway), Swagger |
 
